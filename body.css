@@ -175,7 +175,7 @@ header .flower{
 
     header{
         background-position: center;
-        height: 100vh;
+        height: 120vh;
     }
 
     nav ul li{
@@ -473,7 +473,7 @@ section{
 
 @media  screen and (max-width:700px) {
      section{
-        height: 200vh;
+        height: 240vh;
      }
 
     .services h4{
@@ -672,7 +672,7 @@ footer h5 span{
 
 @media screen  and (max-width:500px){
      footer{
-        height: 45vh;
+        height: 50vh;
      }
      .section{
         display: inline-block;
